@@ -1,0 +1,10 @@
+C:\Users\Naresh\Desktop\LTI\.NET Training\Training\C#\Day3\ProjDay3\CalDLLEg\bin\Debug\CalDLLEg.exe.config
+C:\Users\Naresh\Desktop\LTI\.NET Training\Training\C#\Day3\ProjDay3\CalDLLEg\bin\Debug\CalDLLEg.exe
+C:\Users\Naresh\Desktop\LTI\.NET Training\Training\C#\Day3\ProjDay3\CalDLLEg\bin\Debug\CalDLLEg.pdb
+C:\Users\Naresh\Desktop\LTI\.NET Training\Training\C#\Day3\ProjDay3\CalDLLEg\bin\Debug\Salary.dll
+C:\Users\Naresh\Desktop\LTI\.NET Training\Training\C#\Day3\ProjDay3\CalDLLEg\bin\Debug\Salary.pdb
+C:\Users\Naresh\Desktop\LTI\.NET Training\Training\C#\Day3\ProjDay3\CalDLLEg\obj\Debug\CalDLLEg.csprojAssemblyReference.cache
+C:\Users\Naresh\Desktop\LTI\.NET Training\Training\C#\Day3\ProjDay3\CalDLLEg\obj\Debug\CalDLLEg.csproj.CoreCompileInputs.cache
+C:\Users\Naresh\Desktop\LTI\.NET Training\Training\C#\Day3\ProjDay3\CalDLLEg\obj\Debug\CalDLLEg.csproj.CopyComplete
+C:\Users\Naresh\Desktop\LTI\.NET Training\Training\C#\Day3\ProjDay3\CalDLLEg\obj\Debug\CalDLLEg.exe
+C:\Users\Naresh\Desktop\LTI\.NET Training\Training\C#\Day3\ProjDay3\CalDLLEg\obj\Debug\CalDLLEg.pdb

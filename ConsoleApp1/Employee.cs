@@ -19,8 +19,8 @@ namespace ConsoleApp1
         static void Main()
         {
             Employee employee1 = new Employee();
-            employee1.Name = "Mani";
-            employee1.age = 23;
+            employee1.Name = "Mady";//changed name//
+            employee1.age = 25;
             employee1.degree = "B.Tech";
             employee1.Displaydetails();//displays mani info
             Employee employee2 = new Employee();

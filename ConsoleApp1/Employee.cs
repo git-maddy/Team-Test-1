@@ -19,7 +19,7 @@ namespace ConsoleApp1
         static void Main()
         {
             Employee employee1 = new Employee();
-            employee1.Name = "Mady";//changed name//
+            employee1.Name = "Mady";//Add one employee//
             employee1.age = 25;
             employee1.degree = "B.Tech";
             employee1.Displaydetails();//displays mani info

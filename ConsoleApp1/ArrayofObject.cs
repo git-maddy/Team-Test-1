@@ -33,6 +33,7 @@ namespace ConsoleApp1
                 string name;
 
                 Console.WriteLine("No of movies should be displayed:");
+                Console.WriteLine("No of Movies");
                 n = Convert.ToInt32(Console.Read());
                 Movie[] mov = new Movie[n];
                 for (int i = 0; i < n; i++)

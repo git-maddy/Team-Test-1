@@ -13,7 +13,9 @@ namespace ConsoleApp1
 
         public void DisplayPerson()
         {
-            Console.WriteLine("name:{0} || Age:{1},name,age");
+            Console.WriteLine("name:{0},name");
+            Console.WriteLine("Age:{0}, age");
+       
         }
     }
     
